@@ -1,0 +1,10 @@
+<project>
+    <groupId>ratul.myexperiments</groupId>
+    <artifactId>map-reduce</artifactId>
+    <modelVersion>4.0.0</modelVersion>
+    <name>Map Reduce</name>
+    <packaging>jar</packaging>
+    <version>1.0</version>
+    <dependencies>
+    </dependencies>
+</project>
